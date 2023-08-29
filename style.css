@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+/* styling the body */
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: yellow;
+}
+
+/* styling the heading */
+h1{
+  color: red;
+  text-align: center;
+  font-size: 70px;
+}
+
+/* styling the paragraph */
+
+p{
+  color: darkslateblue;
+  font-size: 35px;
+  margin: 10px;
+}
+
+ol{
+  font-size: 25px;
+  margin-left: 15px;
+  padding: 20px;
+}
